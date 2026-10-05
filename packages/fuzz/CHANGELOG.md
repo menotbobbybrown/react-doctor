@@ -1,5 +1,12 @@
 # @react-doctor/fuzz
 
+## 0.0.36
+
+### Patch Changes
+
+- Updated dependencies [[`7bebcfc`](https://github.com/millionco/react-doctor/commit/7bebcfc1e01445f8fde181e8b8cf1619f836955d), [`6790398`](https://github.com/millionco/react-doctor/commit/67903983c48c59129f08142734e63c9f005bd1ee), [`ad8bca6`](https://github.com/millionco/react-doctor/commit/ad8bca6335a66f1aeb432b8bc3dd86f895f8f02c), [`c92fec1`](https://github.com/millionco/react-doctor/commit/c92fec1c3ea96cf21ab761118d24358df2476eea), [`2825dfd`](https://github.com/millionco/react-doctor/commit/2825dfd67e0049f3247cf033ea7769e4fc3ec90c), [`cc78fa3`](https://github.com/millionco/react-doctor/commit/cc78fa3bb38594bbeea7040fe1e144d19b0eaaf5), [`4f8866c`](https://github.com/millionco/react-doctor/commit/4f8866ce3122b5155c0bd37756e030b952e9cddd), [`96bf20f`](https://github.com/millionco/react-doctor/commit/96bf20fb5fe084d2ca436c1206fb34696226f15e), [`4899bc4`](https://github.com/millionco/react-doctor/commit/4899bc4914bdf956c119ad360958ed83c40c537d), [`45f9769`](https://github.com/millionco/react-doctor/commit/45f97697cb966e6a0bf7214b95087ab09f483900), [`dfb598a`](https://github.com/millionco/react-doctor/commit/dfb598a46bcc4865b639c1a347dbc681b673f819), [`a293fac`](https://github.com/millionco/react-doctor/commit/a293facac53cfd06840a75e57e18b263a629ef50), [`1b149ba`](https://github.com/millionco/react-doctor/commit/1b149bae5f6ecf350b689148b751f0e69afbdb3a), [`888dc2a`](https://github.com/millionco/react-doctor/commit/888dc2a199a1cc6d6d75c30dbba1975936a2026f), [`7e24c41`](https://github.com/millionco/react-doctor/commit/7e24c411ddc8a0cb4b99c70652fdc2fa26e5c891)]:
+  - oxlint-plugin-react-doctor@0.9.18
+
 ## 0.0.35
 
 ### Patch Changes
